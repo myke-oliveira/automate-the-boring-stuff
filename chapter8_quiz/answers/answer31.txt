@@ -1,0 +1,10 @@
+1 - New York: Albany
+2 - Illinois: Springfield
+3 - Minnesota: Saint Paul
+4 - Nevada: Carson City
+5 - North Carolina: Raleigh
+6 - NewMexico: Santa Fe
+7 - Arizona: Phoenix
+8 - NewMexico: Santa Fe
+9 - Oklahoma: Oklahoma City
+10 - WestVirginia: Charleston

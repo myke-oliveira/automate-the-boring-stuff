@@ -1,0 +1,82 @@
+Test 20
+
+Question 1
+Which one is the capital of New York?
+1 - Atlanta
+2 - Bismarck
+3 - Albany
+4 - Harrisburg
+5 - Salt Lake City
+
+Question 2
+Which one is the capital of Pennsylvania?
+1 - Lincoln
+2 - Austin
+3 - Charleston
+4 - Harrisburg
+5 - Providence
+
+Question 3
+Which one is the capital of North Carolina?
+1 - Phoenix
+2 - Raleigh
+3 - Albany
+4 - Sacramento
+5 - Concord
+
+Question 4
+Which one is the capital of South Dakota?
+1 - Atlanta
+2 - Pierre
+3 - Denver
+4 - Baton Rouge
+5 - Olympia
+
+Question 5
+Which one is the capital of North Carolina?
+1 - Saint Paul
+2 - Des Moines
+3 - Madison
+4 - Oklahoma City
+5 - Raleigh
+
+Question 6
+Which one is the capital of Illinois?
+1 - Concord
+2 - Santa Fe
+3 - Raleigh
+4 - Springfield
+5 - Tallahassee
+
+Question 7
+Which one is the capital of New Jersey?
+1 - Providence
+2 - Boston
+3 - Atlanta
+4 - Boise
+5 - Trenton
+
+Question 8
+Which one is the capital of Delaware?
+1 - Trenton
+2 - Santa Fe
+3 - Madison
+4 - Des Moines
+5 - Dover
+
+Question 9
+Which one is the capital of Oklahoma?
+1 - Springfield
+2 - Indianapolis
+3 - Oklahoma City
+4 - Albany
+5 - Madison
+
+Question 10
+Which one is the capital of Connecticut?
+1 - Hartford
+2 - Concord
+3 - Dover
+4 - Lincoln
+5 - Oklahoma City
+

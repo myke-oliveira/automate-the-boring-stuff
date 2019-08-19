@@ -1,0 +1,10 @@
+1 - South Dakota: Pierre
+2 - Maryland: Annapolis
+3 - Tennessee: Nashville
+4 - New Jersey: Trenton
+5 - Wyoming: Cheyenne
+6 - South Carolina: Columbia
+7 - South Carolina: Columbia
+8 - Maryland: Annapolis
+9 - Michigan: Lansing
+10 - Washington: Olympia

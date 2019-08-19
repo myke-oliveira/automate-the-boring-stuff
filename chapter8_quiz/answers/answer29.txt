@@ -1,0 +1,10 @@
+1 - Delaware: Dover
+2 - Utah: Salt Lake City
+3 - Vermont: Montpelier
+4 - Colorado: Denver
+5 - Arizona: Phoenix
+6 - New Hampshire: Concord
+7 - Alabama: Montgomery
+8 - Utah: Salt Lake City
+9 - Kansas: Topeka
+10 - Pennsylvania: Harrisburg

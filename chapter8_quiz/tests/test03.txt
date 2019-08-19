@@ -1,0 +1,82 @@
+Test 3
+
+Question 1
+Which one is the capital of Washington?
+1 - Columbus
+2 - Olympia
+3 - Santa Fe
+4 - Harrisburg
+5 - Tallahassee
+
+Question 2
+Which one is the capital of Massachusetts?
+1 - Austin
+2 - Albany
+3 - Santa Fe
+4 - Boston
+5 - Columbus
+
+Question 3
+Which one is the capital of New Jersey?
+1 - Providence
+2 - Trenton
+3 - Jackson
+4 - Albany
+5 - Boston
+
+Question 4
+Which one is the capital of Indiana?
+1 - Baton Rouge
+2 - Annapolis
+3 - Indianapolis
+4 - Pierre
+5 - Phoenix
+
+Question 5
+Which one is the capital of Maine?
+1 - Santa Fe
+2 - Atlanta
+3 - Boston
+4 - Albany
+5 - Augusta
+
+Question 6
+Which one is the capital of NewMexico?
+1 - Phoenix
+2 - Frankfort
+3 - Santa Fe
+4 - Richmond
+5 - Raleigh
+
+Question 7
+Which one is the capital of Arizona?
+1 - Des Moines
+2 - Harrisburg
+3 - Charleston
+4 - Phoenix
+5 - Providence
+
+Question 8
+Which one is the capital of Arizona?
+1 - Dover
+2 - Santa Fe
+3 - Cheyenne
+4 - Columbus
+5 - Phoenix
+
+Question 9
+Which one is the capital of Louisiana?
+1 - Baton Rouge
+2 - Dover
+3 - Topeka
+4 - Lansing
+5 - Albany
+
+Question 10
+Which one is the capital of WestVirginia?
+1 - Charleston
+2 - Olympia
+3 - Tallahassee
+4 - Bismarck
+5 - Boise
+

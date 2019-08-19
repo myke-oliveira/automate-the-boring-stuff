@@ -1,0 +1,82 @@
+Test 14
+
+Question 1
+Which one is the capital of Wyoming?
+1 - Cheyenne
+2 - Juneau
+3 - Montgomery
+4 - Tallahassee
+5 - Richmond
+
+Question 2
+Which one is the capital of Utah?
+1 - Lansing
+2 - Trenton
+3 - Augusta
+4 - Salt Lake City
+5 - Nashville
+
+Question 3
+Which one is the capital of WestVirginia?
+1 - Baton Rouge
+2 - Richmond
+3 - Lansing
+4 - Cheyenne
+5 - Charleston
+
+Question 4
+Which one is the capital of South Carolina?
+1 - Juneau
+2 - Hartford
+3 - Columbia
+4 - Dover
+5 - Little Rock
+
+Question 5
+Which one is the capital of South Carolina?
+1 - Columbia
+2 - Madison
+3 - Annapolis
+4 - Denver
+5 - Raleigh
+
+Question 6
+Which one is the capital of New Jersey?
+1 - Columbus
+2 - Phoenix
+3 - Indianapolis
+4 - Trenton
+5 - Juneau
+
+Question 7
+Which one is the capital of Nevada?
+1 - Salem
+2 - Carson City
+3 - Trenton
+4 - Topeka
+5 - Austin
+
+Question 8
+Which one is the capital of WestVirginia?
+1 - Harrisburg
+2 - Charleston
+3 - Salt Lake City
+4 - Tallahassee
+5 - Phoenix
+
+Question 9
+Which one is the capital of Arizona?
+1 - Phoenix
+2 - Austin
+3 - Nashville
+4 - Harrisburg
+5 - Concord
+
+Question 10
+Which one is the capital of Wyoming?
+1 - Baton Rouge
+2 - Providence
+3 - Columbia
+4 - Des Moines
+5 - Cheyenne
+

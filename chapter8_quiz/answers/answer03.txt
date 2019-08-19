@@ -1,0 +1,10 @@
+1 - Washington: Olympia
+2 - Massachusetts: Boston
+3 - New Jersey: Trenton
+4 - Indiana: Indianapolis
+5 - Maine: Augusta
+6 - NewMexico: Santa Fe
+7 - Arizona: Phoenix
+8 - Arizona: Phoenix
+9 - Louisiana: Baton Rouge
+10 - WestVirginia: Charleston

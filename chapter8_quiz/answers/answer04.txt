@@ -1,0 +1,10 @@
+1 - Maryland: Annapolis
+2 - Kansas: Topeka
+3 - Oklahoma: Oklahoma City
+4 - WestVirginia: Charleston
+5 - Missouri: Jefferson City
+6 - Louisiana: Baton Rouge
+7 - South Carolina: Columbia
+8 - South Dakota: Pierre
+9 - Washington: Olympia
+10 - Illinois: Springfield

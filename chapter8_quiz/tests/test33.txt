@@ -1,0 +1,82 @@
+Test 33
+
+Question 1
+Which one is the capital of California?
+1 - Jackson
+2 - Denver
+3 - Boise
+4 - Sacramento
+5 - Jefferson City
+
+Question 2
+Which one is the capital of Connecticut?
+1 - Atlanta
+2 - Frankfort
+3 - Hartford
+4 - Trenton
+5 - Tallahassee
+
+Question 3
+Which one is the capital of Nevada?
+1 - Carson City
+2 - Springfield
+3 - Santa Fe
+4 - Baton Rouge
+5 - Harrisburg
+
+Question 4
+Which one is the capital of California?
+1 - Sacramento
+2 - Nashville
+3 - Bismarck
+4 - Santa Fe
+5 - Jackson
+
+Question 5
+Which one is the capital of Maryland?
+1 - Tallahassee
+2 - Columbus
+3 - Austin
+4 - Annapolis
+5 - Honolulu
+
+Question 6
+Which one is the capital of Ohio?
+1 - Atlanta
+2 - Tallahassee
+3 - Madison
+4 - Nashville
+5 - Columbus
+
+Question 7
+Which one is the capital of South Carolina?
+1 - Columbus
+2 - Charleston
+3 - Providence
+4 - Columbia
+5 - Austin
+
+Question 8
+Which one is the capital of Iowa?
+1 - Baton Rouge
+2 - Olympia
+3 - Tallahassee
+4 - Honolulu
+5 - Des Moines
+
+Question 9
+Which one is the capital of Nebraska?
+1 - Annapolis
+2 - Santa Fe
+3 - Lincoln
+4 - Concord
+5 - Little Rock
+
+Question 10
+Which one is the capital of Montana?
+1 - Springfield
+2 - Helena
+3 - Dover
+4 - Montpelier
+5 - Bismarck
+

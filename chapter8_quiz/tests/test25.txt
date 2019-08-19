@@ -1,0 +1,82 @@
+Test 25
+
+Question 1
+Which one is the capital of Virginia?
+1 - Saint Paul
+2 - Richmond
+3 - Helena
+4 - Santa Fe
+5 - Boise
+
+Question 2
+Which one is the capital of Missouri?
+1 - Helena
+2 - Jefferson City
+3 - Bismarck
+4 - Columbia
+5 - Pierre
+
+Question 3
+Which one is the capital of South Dakota?
+1 - Albany
+2 - Tallahassee
+3 - Pierre
+4 - Carson City
+5 - Trenton
+
+Question 4
+Which one is the capital of California?
+1 - Topeka
+2 - Trenton
+3 - Nashville
+4 - Helena
+5 - Sacramento
+
+Question 5
+Which one is the capital of Wyoming?
+1 - Richmond
+2 - Austin
+3 - Annapolis
+4 - Cheyenne
+5 - Lincoln
+
+Question 6
+Which one is the capital of Nebraska?
+1 - Oklahoma City
+2 - Lincoln
+3 - Sacramento
+4 - Madison
+5 - Trenton
+
+Question 7
+Which one is the capital of Mississippi?
+1 - Boston
+2 - Dover
+3 - Jefferson City
+4 - Tallahassee
+5 - Jackson
+
+Question 8
+Which one is the capital of Massachusetts?
+1 - Boston
+2 - Springfield
+3 - Bismarck
+4 - Augusta
+5 - Austin
+
+Question 9
+Which one is the capital of Arkansas?
+1 - Santa Fe
+2 - Trenton
+3 - Little Rock
+4 - Springfield
+5 - Boise
+
+Question 10
+Which one is the capital of Illinois?
+1 - Springfield
+2 - Olympia
+3 - Montgomery
+4 - Jackson
+5 - Harrisburg
+

@@ -1,0 +1,82 @@
+Test 16
+
+Question 1
+Which one is the capital of Wisconsin?
+1 - Salt Lake City
+2 - Cheyenne
+3 - Saint Paul
+4 - Santa Fe
+5 - Madison
+
+Question 2
+Which one is the capital of Alabama?
+1 - Tallahassee
+2 - Frankfort
+3 - Richmond
+4 - Montgomery
+5 - Carson City
+
+Question 3
+Which one is the capital of Hawaii?
+1 - Albany
+2 - Carson City
+3 - Providence
+4 - Atlanta
+5 - Honolulu
+
+Question 4
+Which one is the capital of Montana?
+1 - Austin
+2 - Salem
+3 - Helena
+4 - Tallahassee
+5 - Lansing
+
+Question 5
+Which one is the capital of Connecticut?
+1 - Hartford
+2 - Sacramento
+3 - Trenton
+4 - Montpelier
+5 - Tallahassee
+
+Question 6
+Which one is the capital of Wyoming?
+1 - Lincoln
+2 - Denver
+3 - Cheyenne
+4 - Saint Paul
+5 - Salem
+
+Question 7
+Which one is the capital of North Dakota?
+1 - Bismarck
+2 - Honolulu
+3 - Pierre
+4 - Dover
+5 - Augusta
+
+Question 8
+Which one is the capital of Utah?
+1 - Dover
+2 - Des Moines
+3 - Salt Lake City
+4 - Saint Paul
+5 - Trenton
+
+Question 9
+Which one is the capital of Montana?
+1 - Oklahoma City
+2 - Lansing
+3 - Olympia
+4 - Helena
+5 - Santa Fe
+
+Question 10
+Which one is the capital of Virginia?
+1 - Richmond
+2 - Bismarck
+3 - Boston
+4 - Columbia
+5 - Little Rock
+

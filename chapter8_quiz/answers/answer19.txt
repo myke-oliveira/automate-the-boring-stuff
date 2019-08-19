@@ -1,0 +1,10 @@
+1 - Virginia: Richmond
+2 - Louisiana: Baton Rouge
+3 - Delaware: Dover
+4 - Illinois: Springfield
+5 - Oklahoma: Oklahoma City
+6 - Maine: Augusta
+7 - Alabama: Montgomery
+8 - Kansas: Topeka
+9 - Minnesota: Saint Paul
+10 - Colorado: Denver

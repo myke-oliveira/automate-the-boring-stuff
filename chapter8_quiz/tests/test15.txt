@@ -1,0 +1,82 @@
+Test 15
+
+Question 1
+Which one is the capital of Nevada?
+1 - Lincoln
+2 - Carson City
+3 - Baton Rouge
+4 - Augusta
+5 - Dover
+
+Question 2
+Which one is the capital of Colorado?
+1 - Honolulu
+2 - Denver
+3 - Juneau
+4 - Tallahassee
+5 - Trenton
+
+Question 3
+Which one is the capital of North Dakota?
+1 - Bismarck
+2 - Frankfort
+3 - Boise
+4 - Salt Lake City
+5 - Honolulu
+
+Question 4
+Which one is the capital of South Carolina?
+1 - Raleigh
+2 - Lincoln
+3 - Columbia
+4 - Topeka
+5 - Harrisburg
+
+Question 5
+Which one is the capital of Ohio?
+1 - Trenton
+2 - Columbus
+3 - Annapolis
+4 - Concord
+5 - Denver
+
+Question 6
+Which one is the capital of Rhode Island?
+1 - Providence
+2 - Concord
+3 - Phoenix
+4 - Tallahassee
+5 - Montpelier
+
+Question 7
+Which one is the capital of Montana?
+1 - Helena
+2 - Atlanta
+3 - Sacramento
+4 - Albany
+5 - Honolulu
+
+Question 8
+Which one is the capital of Pennsylvania?
+1 - Denver
+2 - Providence
+3 - Madison
+4 - Harrisburg
+5 - Augusta
+
+Question 9
+Which one is the capital of Iowa?
+1 - Baton Rouge
+2 - Richmond
+3 - Des Moines
+4 - Albany
+5 - Nashville
+
+Question 10
+Which one is the capital of Pennsylvania?
+1 - Harrisburg
+2 - Lansing
+3 - Trenton
+4 - Springfield
+5 - Denver
+

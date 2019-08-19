@@ -1,0 +1,82 @@
+Test 10
+
+Question 1
+Which one is the capital of Illinois?
+1 - Austin
+2 - Montpelier
+3 - Springfield
+4 - Hartford
+5 - Des Moines
+
+Question 2
+Which one is the capital of Arizona?
+1 - Frankfort
+2 - Phoenix
+3 - Atlanta
+4 - Montpelier
+5 - Springfield
+
+Question 3
+Which one is the capital of Iowa?
+1 - Santa Fe
+2 - Saint Paul
+3 - Honolulu
+4 - Des Moines
+5 - Phoenix
+
+Question 4
+Which one is the capital of Pennsylvania?
+1 - Charleston
+2 - Carson City
+3 - Harrisburg
+4 - Olympia
+5 - Topeka
+
+Question 5
+Which one is the capital of Florida?
+1 - Des Moines
+2 - Trenton
+3 - Tallahassee
+4 - Bismarck
+5 - Madison
+
+Question 6
+Which one is the capital of Iowa?
+1 - Trenton
+2 - Salem
+3 - Des Moines
+4 - Salt Lake City
+5 - Bismarck
+
+Question 7
+Which one is the capital of Georgia?
+1 - Dover
+2 - Salem
+3 - Phoenix
+4 - Columbus
+5 - Atlanta
+
+Question 8
+Which one is the capital of New York?
+1 - Richmond
+2 - Albany
+3 - Harrisburg
+4 - Salt Lake City
+5 - Indianapolis
+
+Question 9
+Which one is the capital of Mississippi?
+1 - Lansing
+2 - Indianapolis
+3 - Jackson
+4 - Annapolis
+5 - Salt Lake City
+
+Question 10
+Which one is the capital of Alabama?
+1 - Saint Paul
+2 - Dover
+3 - Montgomery
+4 - Boston
+5 - Salem
+

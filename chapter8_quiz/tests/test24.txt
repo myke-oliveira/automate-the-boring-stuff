@@ -1,0 +1,82 @@
+Test 24
+
+Question 1
+Which one is the capital of Georgia?
+1 - Dover
+2 - Atlanta
+3 - Harrisburg
+4 - Phoenix
+5 - Lincoln
+
+Question 2
+Which one is the capital of Montana?
+1 - Augusta
+2 - Springfield
+3 - Pierre
+4 - Denver
+5 - Helena
+
+Question 3
+Which one is the capital of Connecticut?
+1 - Baton Rouge
+2 - Boise
+3 - Trenton
+4 - Tallahassee
+5 - Hartford
+
+Question 4
+Which one is the capital of Connecticut?
+1 - Juneau
+2 - Olympia
+3 - Hartford
+4 - Albany
+5 - Lincoln
+
+Question 5
+Which one is the capital of Indiana?
+1 - Montpelier
+2 - Little Rock
+3 - Indianapolis
+4 - Phoenix
+5 - Raleigh
+
+Question 6
+Which one is the capital of New Jersey?
+1 - Carson City
+2 - Trenton
+3 - Juneau
+4 - Topeka
+5 - Lincoln
+
+Question 7
+Which one is the capital of Massachusetts?
+1 - Juneau
+2 - Montgomery
+3 - Nashville
+4 - Springfield
+5 - Boston
+
+Question 8
+Which one is the capital of Nevada?
+1 - Lincoln
+2 - Carson City
+3 - Providence
+4 - Nashville
+5 - Concord
+
+Question 9
+Which one is the capital of Vermont?
+1 - Montpelier
+2 - Concord
+3 - Madison
+4 - Springfield
+5 - Indianapolis
+
+Question 10
+Which one is the capital of Tennessee?
+1 - Nashville
+2 - Springfield
+3 - Baton Rouge
+4 - Dover
+5 - Annapolis
+

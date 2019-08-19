@@ -1,0 +1,82 @@
+Test 27
+
+Question 1
+Which one is the capital of North Carolina?
+1 - Atlanta
+2 - Raleigh
+3 - Denver
+4 - Phoenix
+5 - Salt Lake City
+
+Question 2
+Which one is the capital of Montana?
+1 - Providence
+2 - Atlanta
+3 - Sacramento
+4 - Helena
+5 - Juneau
+
+Question 3
+Which one is the capital of South Carolina?
+1 - Baton Rouge
+2 - Pierre
+3 - Columbia
+4 - Phoenix
+5 - Trenton
+
+Question 4
+Which one is the capital of Washington?
+1 - Boston
+2 - Olympia
+3 - Santa Fe
+4 - Carson City
+5 - Denver
+
+Question 5
+Which one is the capital of Hawaii?
+1 - Boston
+2 - Oklahoma City
+3 - Boise
+4 - Honolulu
+5 - Des Moines
+
+Question 6
+Which one is the capital of NewMexico?
+1 - Santa Fe
+2 - Boston
+3 - Harrisburg
+4 - Salt Lake City
+5 - Columbus
+
+Question 7
+Which one is the capital of Mississippi?
+1 - Frankfort
+2 - Albany
+3 - Nashville
+4 - Springfield
+5 - Jackson
+
+Question 8
+Which one is the capital of Washington?
+1 - Olympia
+2 - Columbus
+3 - Raleigh
+4 - Salem
+5 - Bismarck
+
+Question 9
+Which one is the capital of Arkansas?
+1 - Little Rock
+2 - Baton Rouge
+3 - Columbus
+4 - Montpelier
+5 - Richmond
+
+Question 10
+Which one is the capital of Florida?
+1 - Frankfort
+2 - Sacramento
+3 - Salt Lake City
+4 - Jefferson City
+5 - Tallahassee
+

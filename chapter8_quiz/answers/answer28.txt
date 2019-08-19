@@ -1,0 +1,10 @@
+1 - Oklahoma: Oklahoma City
+2 - New York: Albany
+3 - Idaho: Boise
+4 - Florida: Tallahassee
+5 - Idaho: Boise
+6 - Wyoming: Cheyenne
+7 - Utah: Salt Lake City
+8 - NewMexico: Santa Fe
+9 - Kansas: Topeka
+10 - Arkansas: Little Rock

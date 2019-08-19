@@ -1,0 +1,10 @@
+1 - Wyoming: Cheyenne
+2 - North Carolina: Raleigh
+3 - Montana: Helena
+4 - Montana: Helena
+5 - Texas: Austin
+6 - Ohio: Columbus
+7 - Montana: Helena
+8 - Alaska: Juneau
+9 - Maryland: Annapolis
+10 - Indiana: Indianapolis

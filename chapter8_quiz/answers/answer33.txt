@@ -1,0 +1,10 @@
+1 - California: Sacramento
+2 - Connecticut: Hartford
+3 - Nevada: Carson City
+4 - California: Sacramento
+5 - Maryland: Annapolis
+6 - Ohio: Columbus
+7 - South Carolina: Columbia
+8 - Iowa: Des Moines
+9 - Nebraska: Lincoln
+10 - Montana: Helena

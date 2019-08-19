@@ -1,0 +1,10 @@
+1 - Florida: Tallahassee
+2 - Mississippi: Jackson
+3 - Wisconsin: Madison
+4 - Delaware: Dover
+5 - Wisconsin: Madison
+6 - Missouri: Jefferson City
+7 - Georgia: Atlanta
+8 - New Hampshire: Concord
+9 - Louisiana: Baton Rouge
+10 - NewMexico: Santa Fe

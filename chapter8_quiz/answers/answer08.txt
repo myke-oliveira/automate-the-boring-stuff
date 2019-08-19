@@ -1,0 +1,10 @@
+1 - South Carolina: Columbia
+2 - Louisiana: Baton Rouge
+3 - North Dakota: Bismarck
+4 - Massachusetts: Boston
+5 - Nebraska: Lincoln
+6 - Oklahoma: Oklahoma City
+7 - Virginia: Richmond
+8 - Missouri: Jefferson City
+9 - Maryland: Annapolis
+10 - Alabama: Montgomery

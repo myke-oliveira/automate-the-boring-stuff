@@ -1,0 +1,10 @@
+1 - Nebraska: Lincoln
+2 - Utah: Salt Lake City
+3 - Iowa: Des Moines
+4 - Florida: Tallahassee
+5 - Alabama: Montgomery
+6 - Connecticut: Hartford
+7 - Louisiana: Baton Rouge
+8 - Pennsylvania: Harrisburg
+9 - Mississippi: Jackson
+10 - North Dakota: Bismarck

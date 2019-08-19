@@ -1,0 +1,82 @@
+Test 6
+
+Question 1
+Which one is the capital of Texas?
+1 - Salem
+2 - Carson City
+3 - Saint Paul
+4 - Austin
+5 - Madison
+
+Question 2
+Which one is the capital of NewMexico?
+1 - Tallahassee
+2 - Austin
+3 - Santa Fe
+4 - Bismarck
+5 - Boston
+
+Question 3
+Which one is the capital of New Hampshire?
+1 - Helena
+2 - Saint Paul
+3 - Harrisburg
+4 - Honolulu
+5 - Concord
+
+Question 4
+Which one is the capital of Pennsylvania?
+1 - Hartford
+2 - Santa Fe
+3 - Lincoln
+4 - Harrisburg
+5 - Des Moines
+
+Question 5
+Which one is the capital of NewMexico?
+1 - Phoenix
+2 - Santa Fe
+3 - Montpelier
+4 - Nashville
+5 - Columbus
+
+Question 6
+Which one is the capital of Idaho?
+1 - Boise
+2 - Saint Paul
+3 - Carson City
+4 - Columbia
+5 - Des Moines
+
+Question 7
+Which one is the capital of Oklahoma?
+1 - Honolulu
+2 - Helena
+3 - Oklahoma City
+4 - Nashville
+5 - Phoenix
+
+Question 8
+Which one is the capital of WestVirginia?
+1 - Charleston
+2 - Montpelier
+3 - Madison
+4 - Annapolis
+5 - Little Rock
+
+Question 9
+Which one is the capital of Vermont?
+1 - Jefferson City
+2 - Augusta
+3 - Annapolis
+4 - Columbia
+5 - Montpelier
+
+Question 10
+Which one is the capital of Iowa?
+1 - Carson City
+2 - Pierre
+3 - Madison
+4 - Des Moines
+5 - Lansing
+

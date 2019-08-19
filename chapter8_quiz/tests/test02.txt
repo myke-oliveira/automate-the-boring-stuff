@@ -1,0 +1,82 @@
+Test 2
+
+Question 1
+Which one is the capital of Alaska?
+1 - Sacramento
+2 - Olympia
+3 - Juneau
+4 - Saint Paul
+5 - Lincoln
+
+Question 2
+Which one is the capital of Maryland?
+1 - Cheyenne
+2 - Sacramento
+3 - Tallahassee
+4 - Des Moines
+5 - Annapolis
+
+Question 3
+Which one is the capital of Connecticut?
+1 - Atlanta
+2 - Trenton
+3 - Columbus
+4 - Hartford
+5 - Charleston
+
+Question 4
+Which one is the capital of Maine?
+1 - Baton Rouge
+2 - Nashville
+3 - Indianapolis
+4 - Augusta
+5 - Annapolis
+
+Question 5
+Which one is the capital of NewMexico?
+1 - Atlanta
+2 - Salem
+3 - Montgomery
+4 - Santa Fe
+5 - Helena
+
+Question 6
+Which one is the capital of Indiana?
+1 - Sacramento
+2 - Raleigh
+3 - Denver
+4 - Springfield
+5 - Indianapolis
+
+Question 7
+Which one is the capital of Michigan?
+1 - Trenton
+2 - Indianapolis
+3 - Pierre
+4 - Dover
+5 - Lansing
+
+Question 8
+Which one is the capital of Connecticut?
+1 - Hartford
+2 - Annapolis
+3 - Harrisburg
+4 - Baton Rouge
+5 - Boise
+
+Question 9
+Which one is the capital of NewMexico?
+1 - Bismarck
+2 - Salt Lake City
+3 - Providence
+4 - Trenton
+5 - Santa Fe
+
+Question 10
+Which one is the capital of New Jersey?
+1 - Topeka
+2 - Trenton
+3 - Jackson
+4 - Columbus
+5 - Jefferson City
+

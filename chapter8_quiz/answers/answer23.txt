@@ -1,0 +1,10 @@
+1 - Illinois: Springfield
+2 - Ohio: Columbus
+3 - Iowa: Des Moines
+4 - South Carolina: Columbia
+5 - Pennsylvania: Harrisburg
+6 - California: Sacramento
+7 - NewMexico: Santa Fe
+8 - California: Sacramento
+9 - Delaware: Dover
+10 - Kansas: Topeka

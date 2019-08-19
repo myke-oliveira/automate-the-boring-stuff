@@ -1,0 +1,82 @@
+Test 32
+
+Question 1
+Which one is the capital of Utah?
+1 - Jefferson City
+2 - Salt Lake City
+3 - Columbus
+4 - Phoenix
+5 - Topeka
+
+Question 2
+Which one is the capital of Wyoming?
+1 - Tallahassee
+2 - Hartford
+3 - Salt Lake City
+4 - Saint Paul
+5 - Cheyenne
+
+Question 3
+Which one is the capital of Texas?
+1 - Atlanta
+2 - Austin
+3 - Harrisburg
+4 - Bismarck
+5 - Santa Fe
+
+Question 4
+Which one is the capital of Vermont?
+1 - Phoenix
+2 - Augusta
+3 - Montpelier
+4 - Lansing
+5 - Dover
+
+Question 5
+Which one is the capital of New Jersey?
+1 - Trenton
+2 - Baton Rouge
+3 - Juneau
+4 - Oklahoma City
+5 - Montpelier
+
+Question 6
+Which one is the capital of Idaho?
+1 - Lincoln
+2 - Olympia
+3 - Boise
+4 - Providence
+5 - Harrisburg
+
+Question 7
+Which one is the capital of Colorado?
+1 - Albany
+2 - Madison
+3 - Frankfort
+4 - Denver
+5 - Salt Lake City
+
+Question 8
+Which one is the capital of Colorado?
+1 - Cheyenne
+2 - Santa Fe
+3 - Salem
+4 - Denver
+5 - Concord
+
+Question 9
+Which one is the capital of Louisiana?
+1 - Denver
+2 - Baton Rouge
+3 - Pierre
+4 - Cheyenne
+5 - Bismarck
+
+Question 10
+Which one is the capital of Wyoming?
+1 - Bismarck
+2 - Baton Rouge
+3 - Trenton
+4 - Santa Fe
+5 - Cheyenne
+

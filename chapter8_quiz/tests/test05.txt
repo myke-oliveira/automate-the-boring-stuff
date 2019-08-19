@@ -1,0 +1,82 @@
+Test 5
+
+Question 1
+Which one is the capital of Wyoming?
+1 - Raleigh
+2 - Montgomery
+3 - Montpelier
+4 - Salem
+5 - Cheyenne
+
+Question 2
+Which one is the capital of North Carolina?
+1 - Topeka
+2 - Boise
+3 - Raleigh
+4 - Atlanta
+5 - Lincoln
+
+Question 3
+Which one is the capital of Montana?
+1 - Springfield
+2 - Harrisburg
+3 - Carson City
+4 - Charleston
+5 - Helena
+
+Question 4
+Which one is the capital of Montana?
+1 - Helena
+2 - Des Moines
+3 - Frankfort
+4 - Salt Lake City
+5 - Nashville
+
+Question 5
+Which one is the capital of Texas?
+1 - Boston
+2 - Jefferson City
+3 - Harrisburg
+4 - Austin
+5 - Oklahoma City
+
+Question 6
+Which one is the capital of Ohio?
+1 - Frankfort
+2 - Albany
+3 - Montpelier
+4 - Columbus
+5 - Cheyenne
+
+Question 7
+Which one is the capital of Montana?
+1 - Tallahassee
+2 - Helena
+3 - Springfield
+4 - Annapolis
+5 - Boise
+
+Question 8
+Which one is the capital of Alaska?
+1 - Saint Paul
+2 - Hartford
+3 - Salt Lake City
+4 - Juneau
+5 - Salem
+
+Question 9
+Which one is the capital of Maryland?
+1 - Salem
+2 - Annapolis
+3 - Carson City
+4 - Jackson
+5 - Oklahoma City
+
+Question 10
+Which one is the capital of Indiana?
+1 - Indianapolis
+2 - Oklahoma City
+3 - Denver
+4 - Harrisburg
+5 - Springfield
+

@@ -1,0 +1,10 @@
+1 - Georgia: Atlanta
+2 - Montana: Helena
+3 - Connecticut: Hartford
+4 - Connecticut: Hartford
+5 - Indiana: Indianapolis
+6 - New Jersey: Trenton
+7 - Massachusetts: Boston
+8 - Nevada: Carson City
+9 - Vermont: Montpelier
+10 - Tennessee: Nashville

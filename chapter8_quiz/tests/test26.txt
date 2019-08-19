@@ -1,0 +1,82 @@
+Test 26
+
+Question 1
+Which one is the capital of South Dakota?
+1 - Pierre
+2 - Columbus
+3 - Montpelier
+4 - Boston
+5 - Helena
+
+Question 2
+Which one is the capital of Maryland?
+1 - Phoenix
+2 - Boston
+3 - Annapolis
+4 - Salem
+5 - Dover
+
+Question 3
+Which one is the capital of Tennessee?
+1 - Sacramento
+2 - Nashville
+3 - Cheyenne
+4 - Albany
+5 - Olympia
+
+Question 4
+Which one is the capital of New Jersey?
+1 - Columbus
+2 - Bismarck
+3 - Pierre
+4 - Phoenix
+5 - Trenton
+
+Question 5
+Which one is the capital of Wyoming?
+1 - Honolulu
+2 - Albany
+3 - Austin
+4 - Cheyenne
+5 - Springfield
+
+Question 6
+Which one is the capital of South Carolina?
+1 - Indianapolis
+2 - Carson City
+3 - Columbia
+4 - Charleston
+5 - Oklahoma City
+
+Question 7
+Which one is the capital of South Carolina?
+1 - Columbia
+2 - Concord
+3 - Jackson
+4 - Charleston
+5 - Dover
+
+Question 8
+Which one is the capital of Maryland?
+1 - Montgomery
+2 - Boston
+3 - Hartford
+4 - Annapolis
+5 - Sacramento
+
+Question 9
+Which one is the capital of Michigan?
+1 - Bismarck
+2 - Salem
+3 - Boston
+4 - Tallahassee
+5 - Lansing
+
+Question 10
+Which one is the capital of Washington?
+1 - Jefferson City
+2 - Olympia
+3 - Phoenix
+4 - Topeka
+5 - Indianapolis
+

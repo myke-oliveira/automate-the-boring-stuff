@@ -1,0 +1,82 @@
+Test 22
+
+Question 1
+Which one is the capital of NewMexico?
+1 - Frankfort
+2 - Lincoln
+3 - Santa Fe
+4 - Raleigh
+5 - Des Moines
+
+Question 2
+Which one is the capital of Delaware?
+1 - Tallahassee
+2 - Austin
+3 - Little Rock
+4 - Dover
+5 - Salt Lake City
+
+Question 3
+Which one is the capital of Maryland?
+1 - Jackson
+2 - Frankfort
+3 - Denver
+4 - Annapolis
+5 - Baton Rouge
+
+Question 4
+Which one is the capital of NewMexico?
+1 - Santa Fe
+2 - Salt Lake City
+3 - Jackson
+4 - Columbia
+5 - Atlanta
+
+Question 5
+Which one is the capital of Nevada?
+1 - Montpelier
+2 - Oklahoma City
+3 - Baton Rouge
+4 - Carson City
+5 - Denver
+
+Question 6
+Which one is the capital of Michigan?
+1 - Baton Rouge
+2 - Little Rock
+3 - Oklahoma City
+4 - Lansing
+5 - Richmond
+
+Question 7
+Which one is the capital of Maryland?
+1 - Columbus
+2 - Annapolis
+3 - Frankfort
+4 - Lansing
+5 - Providence
+
+Question 8
+Which one is the capital of Connecticut?
+1 - Concord
+2 - Bismarck
+3 - Charleston
+4 - Columbus
+5 - Hartford
+
+Question 9
+Which one is the capital of Missouri?
+1 - Columbus
+2 - Nashville
+3 - Jefferson City
+4 - Harrisburg
+5 - Frankfort
+
+Question 10
+Which one is the capital of Nevada?
+1 - Carson City
+2 - Montgomery
+3 - Helena
+4 - Nashville
+5 - Richmond
+

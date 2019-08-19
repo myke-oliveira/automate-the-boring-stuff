@@ -1,0 +1,10 @@
+1 - Wisconsin: Madison
+2 - Alabama: Montgomery
+3 - Hawaii: Honolulu
+4 - Montana: Helena
+5 - Connecticut: Hartford
+6 - Wyoming: Cheyenne
+7 - North Dakota: Bismarck
+8 - Utah: Salt Lake City
+9 - Montana: Helena
+10 - Virginia: Richmond

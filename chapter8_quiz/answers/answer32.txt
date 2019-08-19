@@ -1,0 +1,10 @@
+1 - Utah: Salt Lake City
+2 - Wyoming: Cheyenne
+3 - Texas: Austin
+4 - Vermont: Montpelier
+5 - New Jersey: Trenton
+6 - Idaho: Boise
+7 - Colorado: Denver
+8 - Colorado: Denver
+9 - Louisiana: Baton Rouge
+10 - Wyoming: Cheyenne

@@ -1,0 +1,82 @@
+Test 34
+
+Question 1
+Which one is the capital of California?
+1 - Salt Lake City
+2 - Sacramento
+3 - Concord
+4 - Juneau
+5 - Topeka
+
+Question 2
+Which one is the capital of Maryland?
+1 - Annapolis
+2 - Columbus
+3 - Jefferson City
+4 - Concord
+5 - Carson City
+
+Question 3
+Which one is the capital of Connecticut?
+1 - Hartford
+2 - Tallahassee
+3 - Jefferson City
+4 - Charleston
+5 - Honolulu
+
+Question 4
+Which one is the capital of Virginia?
+1 - Columbia
+2 - Nashville
+3 - Richmond
+4 - Olympia
+5 - Jefferson City
+
+Question 5
+Which one is the capital of Michigan?
+1 - Nashville
+2 - Carson City
+3 - Lansing
+4 - Honolulu
+5 - Denver
+
+Question 6
+Which one is the capital of Mississippi?
+1 - Madison
+2 - Boise
+3 - Jackson
+4 - Oklahoma City
+5 - Hartford
+
+Question 7
+Which one is the capital of Illinois?
+1 - Springfield
+2 - Baton Rouge
+3 - Boston
+4 - Concord
+5 - Trenton
+
+Question 8
+Which one is the capital of Georgia?
+1 - Sacramento
+2 - Concord
+3 - Atlanta
+4 - Cheyenne
+5 - Boise
+
+Question 9
+Which one is the capital of Florida?
+1 - Salem
+2 - Sacramento
+3 - Raleigh
+4 - Boise
+5 - Tallahassee
+
+Question 10
+Which one is the capital of Colorado?
+1 - Lansing
+2 - Carson City
+3 - Charleston
+4 - Denver
+5 - Madison
+

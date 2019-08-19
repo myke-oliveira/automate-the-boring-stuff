@@ -1,0 +1,10 @@
+1 - Illinois: Springfield
+2 - Arizona: Phoenix
+3 - Iowa: Des Moines
+4 - Pennsylvania: Harrisburg
+5 - Florida: Tallahassee
+6 - Iowa: Des Moines
+7 - Georgia: Atlanta
+8 - New York: Albany
+9 - Mississippi: Jackson
+10 - Alabama: Montgomery

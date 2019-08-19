@@ -1,0 +1,82 @@
+Test 30
+
+Question 1
+Which one is the capital of Minnesota?
+1 - Saint Paul
+2 - Columbia
+3 - Harrisburg
+4 - Santa Fe
+5 - Little Rock
+
+Question 2
+Which one is the capital of Utah?
+1 - Bismarck
+2 - Salem
+3 - Tallahassee
+4 - Topeka
+5 - Salt Lake City
+
+Question 3
+Which one is the capital of Oregon?
+1 - Salem
+2 - Madison
+3 - Helena
+4 - Harrisburg
+5 - Lansing
+
+Question 4
+Which one is the capital of Utah?
+1 - Phoenix
+2 - Salt Lake City
+3 - Montgomery
+4 - Harrisburg
+5 - Carson City
+
+Question 5
+Which one is the capital of Texas?
+1 - Annapolis
+2 - Charleston
+3 - Jackson
+4 - Carson City
+5 - Austin
+
+Question 6
+Which one is the capital of Vermont?
+1 - Lansing
+2 - Montpelier
+3 - Providence
+4 - Raleigh
+5 - Trenton
+
+Question 7
+Which one is the capital of Texas?
+1 - Austin
+2 - Olympia
+3 - Concord
+4 - Nashville
+5 - Dover
+
+Question 8
+Which one is the capital of Ohio?
+1 - Raleigh
+2 - Indianapolis
+3 - Boise
+4 - Denver
+5 - Columbus
+
+Question 9
+Which one is the capital of Pennsylvania?
+1 - Harrisburg
+2 - Denver
+3 - Des Moines
+4 - Raleigh
+5 - Augusta
+
+Question 10
+Which one is the capital of Idaho?
+1 - Topeka
+2 - Boise
+3 - Saint Paul
+4 - Charleston
+5 - Helena
+

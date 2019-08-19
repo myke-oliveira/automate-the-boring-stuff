@@ -1,0 +1,82 @@
+Test 8
+
+Question 1
+Which one is the capital of South Carolina?
+1 - Montgomery
+2 - Salem
+3 - Columbia
+4 - Des Moines
+5 - Indianapolis
+
+Question 2
+Which one is the capital of Louisiana?
+1 - Indianapolis
+2 - Trenton
+3 - Baton Rouge
+4 - Tallahassee
+5 - Helena
+
+Question 3
+Which one is the capital of North Dakota?
+1 - Carson City
+2 - Bismarck
+3 - Oklahoma City
+4 - Hartford
+5 - Raleigh
+
+Question 4
+Which one is the capital of Massachusetts?
+1 - Atlanta
+2 - Boston
+3 - Santa Fe
+4 - Bismarck
+5 - Austin
+
+Question 5
+Which one is the capital of Nebraska?
+1 - Phoenix
+2 - Columbus
+3 - Lincoln
+4 - Helena
+5 - Austin
+
+Question 6
+Which one is the capital of Oklahoma?
+1 - Oklahoma City
+2 - Olympia
+3 - Annapolis
+4 - Salem
+5 - Columbus
+
+Question 7
+Which one is the capital of Virginia?
+1 - Richmond
+2 - Des Moines
+3 - Augusta
+4 - Carson City
+5 - Boise
+
+Question 8
+Which one is the capital of Missouri?
+1 - Jefferson City
+2 - Pierre
+3 - Atlanta
+4 - Charleston
+5 - Salt Lake City
+
+Question 9
+Which one is the capital of Maryland?
+1 - Denver
+2 - Annapolis
+3 - Boise
+4 - Columbia
+5 - Indianapolis
+
+Question 10
+Which one is the capital of Alabama?
+1 - Boise
+2 - Montgomery
+3 - Phoenix
+4 - Carson City
+5 - Saint Paul
+

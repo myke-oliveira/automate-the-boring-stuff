@@ -1,0 +1,10 @@
+1 - New York: Albany
+2 - Pennsylvania: Harrisburg
+3 - North Carolina: Raleigh
+4 - South Dakota: Pierre
+5 - North Carolina: Raleigh
+6 - Illinois: Springfield
+7 - New Jersey: Trenton
+8 - Delaware: Dover
+9 - Oklahoma: Oklahoma City
+10 - Connecticut: Hartford

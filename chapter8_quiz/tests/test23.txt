@@ -1,0 +1,82 @@
+Test 23
+
+Question 1
+Which one is the capital of Illinois?
+1 - Carson City
+2 - Des Moines
+3 - Jackson
+4 - Springfield
+5 - Columbia
+
+Question 2
+Which one is the capital of Ohio?
+1 - Harrisburg
+2 - Annapolis
+3 - Augusta
+4 - Columbus
+5 - Jefferson City
+
+Question 3
+Which one is the capital of Iowa?
+1 - Sacramento
+2 - Des Moines
+3 - Little Rock
+4 - Salt Lake City
+5 - Providence
+
+Question 4
+Which one is the capital of South Carolina?
+1 - Columbia
+2 - Indianapolis
+3 - Saint Paul
+4 - Boston
+5 - Honolulu
+
+Question 5
+Which one is the capital of Pennsylvania?
+1 - Little Rock
+2 - Baton Rouge
+3 - Pierre
+4 - Harrisburg
+5 - Cheyenne
+
+Question 6
+Which one is the capital of California?
+1 - Annapolis
+2 - Madison
+3 - Montgomery
+4 - Sacramento
+5 - Juneau
+
+Question 7
+Which one is the capital of NewMexico?
+1 - Santa Fe
+2 - Boston
+3 - Richmond
+4 - Des Moines
+5 - Topeka
+
+Question 8
+Which one is the capital of California?
+1 - Concord
+2 - Augusta
+3 - Juneau
+4 - Salt Lake City
+5 - Sacramento
+
+Question 9
+Which one is the capital of Delaware?
+1 - Oklahoma City
+2 - Dover
+3 - Columbus
+4 - Trenton
+5 - Providence
+
+Question 10
+Which one is the capital of Kansas?
+1 - Harrisburg
+2 - Cheyenne
+3 - Little Rock
+4 - Hartford
+5 - Topeka
+

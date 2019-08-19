@@ -1,0 +1,10 @@
+1 - South Carolina: Columbia
+2 - Vermont: Montpelier
+3 - Kentucky: Frankfort
+4 - Virginia: Richmond
+5 - Illinois: Springfield
+6 - Florida: Tallahassee
+7 - NewMexico: Santa Fe
+8 - Wisconsin: Madison
+9 - Illinois: Springfield
+10 - Nevada: Carson City

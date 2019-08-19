@@ -1,0 +1,10 @@
+1 - Wyoming: Cheyenne
+2 - Utah: Salt Lake City
+3 - WestVirginia: Charleston
+4 - South Carolina: Columbia
+5 - South Carolina: Columbia
+6 - New Jersey: Trenton
+7 - Nevada: Carson City
+8 - WestVirginia: Charleston
+9 - Arizona: Phoenix
+10 - Wyoming: Cheyenne

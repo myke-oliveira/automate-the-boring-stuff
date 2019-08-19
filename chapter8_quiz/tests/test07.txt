@@ -1,0 +1,82 @@
+Test 7
+
+Question 1
+Which one is the capital of Kansas?
+1 - Santa Fe
+2 - Carson City
+3 - Springfield
+4 - Cheyenne
+5 - Topeka
+
+Question 2
+Which one is the capital of Maine?
+1 - Lansing
+2 - Honolulu
+3 - Augusta
+4 - Sacramento
+5 - Jefferson City
+
+Question 3
+Which one is the capital of Nebraska?
+1 - Augusta
+2 - Honolulu
+3 - Lincoln
+4 - Juneau
+5 - Atlanta
+
+Question 4
+Which one is the capital of WestVirginia?
+1 - Carson City
+2 - Raleigh
+3 - Phoenix
+4 - Santa Fe
+5 - Charleston
+
+Question 5
+Which one is the capital of Indiana?
+1 - Charleston
+2 - Columbia
+3 - Columbus
+4 - Indianapolis
+5 - Springfield
+
+Question 6
+Which one is the capital of Mississippi?
+1 - Salem
+2 - Saint Paul
+3 - Topeka
+4 - Jackson
+5 - Honolulu
+
+Question 7
+Which one is the capital of Florida?
+1 - Tallahassee
+2 - Indianapolis
+3 - Topeka
+4 - Columbia
+5 - Providence
+
+Question 8
+Which one is the capital of New York?
+1 - Madison
+2 - Phoenix
+3 - Albany
+4 - Springfield
+5 - Montpelier
+
+Question 9
+Which one is the capital of Nebraska?
+1 - Montpelier
+2 - Harrisburg
+3 - Lincoln
+4 - Olympia
+5 - Annapolis
+
+Question 10
+Which one is the capital of Maine?
+1 - Hartford
+2 - Augusta
+3 - Montpelier
+4 - Boston
+5 - Dover
+

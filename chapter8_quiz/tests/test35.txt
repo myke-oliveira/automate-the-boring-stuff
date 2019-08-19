@@ -1,0 +1,82 @@
+Test 35
+
+Question 1
+Which one is the capital of Colorado?
+1 - Denver
+2 - Montgomery
+3 - Tallahassee
+4 - Frankfort
+5 - Indianapolis
+
+Question 2
+Which one is the capital of Michigan?
+1 - Saint Paul
+2 - Lansing
+3 - Frankfort
+4 - Baton Rouge
+5 - Dover
+
+Question 3
+Which one is the capital of South Carolina?
+1 - Olympia
+2 - Montpelier
+3 - Columbia
+4 - Columbus
+5 - Topeka
+
+Question 4
+Which one is the capital of Maine?
+1 - Phoenix
+2 - Pierre
+3 - Dover
+4 - Helena
+5 - Augusta
+
+Question 5
+Which one is the capital of Kansas?
+1 - Frankfort
+2 - Pierre
+3 - Boise
+4 - Saint Paul
+5 - Topeka
+
+Question 6
+Which one is the capital of Utah?
+1 - Columbia
+2 - Olympia
+3 - Montgomery
+4 - Montpelier
+5 - Salt Lake City
+
+Question 7
+Which one is the capital of WestVirginia?
+1 - Sacramento
+2 - Madison
+3 - Charleston
+4 - Columbus
+5 - Jefferson City
+
+Question 8
+Which one is the capital of Wisconsin?
+1 - Dover
+2 - Oklahoma City
+3 - Madison
+4 - Boston
+5 - Jackson
+
+Question 9
+Which one is the capital of Maine?
+1 - Nashville
+2 - Cheyenne
+3 - Raleigh
+4 - Denver
+5 - Augusta
+
+Question 10
+Which one is the capital of Maine?
+1 - Augusta
+2 - Honolulu
+3 - Santa Fe
+4 - Frankfort
+5 - Harrisburg
+

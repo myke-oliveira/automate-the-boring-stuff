@@ -1,0 +1,82 @@
+Test 18
+
+Question 1
+Which one is the capital of Mississippi?
+1 - Lincoln
+2 - Jackson
+3 - Columbia
+4 - Augusta
+5 - Jefferson City
+
+Question 2
+Which one is the capital of California?
+1 - Frankfort
+2 - Boston
+3 - Sacramento
+4 - Richmond
+5 - Columbia
+
+Question 3
+Which one is the capital of South Dakota?
+1 - Pierre
+2 - Concord
+3 - Trenton
+4 - Austin
+5 - Des Moines
+
+Question 4
+Which one is the capital of Arkansas?
+1 - Raleigh
+2 - Salt Lake City
+3 - Atlanta
+4 - Little Rock
+5 - Salem
+
+Question 5
+Which one is the capital of South Carolina?
+1 - Topeka
+2 - Albany
+3 - Columbia
+4 - Nashville
+5 - Phoenix
+
+Question 6
+Which one is the capital of Utah?
+1 - Saint Paul
+2 - Carson City
+3 - Jefferson City
+4 - Salt Lake City
+5 - Raleigh
+
+Question 7
+Which one is the capital of Maine?
+1 - Jackson
+2 - Albany
+3 - Cheyenne
+4 - Denver
+5 - Augusta
+
+Question 8
+Which one is the capital of WestVirginia?
+1 - Hartford
+2 - Raleigh
+3 - Sacramento
+4 - Richmond
+5 - Charleston
+
+Question 9
+Which one is the capital of Utah?
+1 - Salt Lake City
+2 - Charleston
+3 - Honolulu
+4 - Jefferson City
+5 - Denver
+
+Question 10
+Which one is the capital of Kentucky?
+1 - Pierre
+2 - Montgomery
+3 - Juneau
+4 - Frankfort
+5 - Lincoln
+

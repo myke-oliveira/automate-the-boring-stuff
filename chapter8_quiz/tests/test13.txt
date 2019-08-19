@@ -1,0 +1,82 @@
+Test 13
+
+Question 1
+Which one is the capital of Oregon?
+1 - Salem
+2 - Nashville
+3 - Honolulu
+4 - Augusta
+5 - Juneau
+
+Question 2
+Which one is the capital of Ohio?
+1 - Columbia
+2 - Salt Lake City
+3 - Montpelier
+4 - Tallahassee
+5 - Columbus
+
+Question 3
+Which one is the capital of Nebraska?
+1 - Providence
+2 - Lincoln
+3 - Hartford
+4 - Sacramento
+5 - Jefferson City
+
+Question 4
+Which one is the capital of NewMexico?
+1 - Bismarck
+2 - Madison
+3 - Indianapolis
+4 - Raleigh
+5 - Santa Fe
+
+Question 5
+Which one is the capital of Michigan?
+1 - Tallahassee
+2 - Salt Lake City
+3 - Phoenix
+4 - Lansing
+5 - Trenton
+
+Question 6
+Which one is the capital of Alabama?
+1 - Montgomery
+2 - Olympia
+3 - Montpelier
+4 - Helena
+5 - Juneau
+
+Question 7
+Which one is the capital of Maine?
+1 - Augusta
+2 - Juneau
+3 - Hartford
+4 - Helena
+5 - Columbia
+
+Question 8
+Which one is the capital of Utah?
+1 - Jackson
+2 - Topeka
+3 - Oklahoma City
+4 - Springfield
+5 - Salt Lake City
+
+Question 9
+Which one is the capital of Kansas?
+1 - Raleigh
+2 - Des Moines
+3 - Saint Paul
+4 - Jackson
+5 - Topeka
+
+Question 10
+Which one is the capital of Texas?
+1 - Denver
+2 - Austin
+3 - Raleigh
+4 - Springfield
+5 - Honolulu
+

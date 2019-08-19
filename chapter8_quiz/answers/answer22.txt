@@ -1,0 +1,10 @@
+1 - NewMexico: Santa Fe
+2 - Delaware: Dover
+3 - Maryland: Annapolis
+4 - NewMexico: Santa Fe
+5 - Nevada: Carson City
+6 - Michigan: Lansing
+7 - Maryland: Annapolis
+8 - Connecticut: Hartford
+9 - Missouri: Jefferson City
+10 - Nevada: Carson City

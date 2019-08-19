@@ -1,0 +1,10 @@
+1 - Colorado: Denver
+2 - Michigan: Lansing
+3 - South Carolina: Columbia
+4 - Maine: Augusta
+5 - Kansas: Topeka
+6 - Utah: Salt Lake City
+7 - WestVirginia: Charleston
+8 - Wisconsin: Madison
+9 - Maine: Augusta
+10 - Maine: Augusta

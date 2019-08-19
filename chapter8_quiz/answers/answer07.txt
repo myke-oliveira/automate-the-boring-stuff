@@ -1,0 +1,10 @@
+1 - Kansas: Topeka
+2 - Maine: Augusta
+3 - Nebraska: Lincoln
+4 - WestVirginia: Charleston
+5 - Indiana: Indianapolis
+6 - Mississippi: Jackson
+7 - Florida: Tallahassee
+8 - New York: Albany
+9 - Nebraska: Lincoln
+10 - Maine: Augusta

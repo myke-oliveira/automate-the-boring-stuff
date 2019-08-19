@@ -1,0 +1,82 @@
+Test 17
+
+Question 1
+Which one is the capital of Nebraska?
+1 - Columbus
+2 - Lincoln
+3 - Charleston
+4 - Atlanta
+5 - Tallahassee
+
+Question 2
+Which one is the capital of Utah?
+1 - Salt Lake City
+2 - Austin
+3 - Columbus
+4 - Carson City
+5 - Montgomery
+
+Question 3
+Which one is the capital of Iowa?
+1 - Tallahassee
+2 - Boston
+3 - Des Moines
+4 - Olympia
+5 - Frankfort
+
+Question 4
+Which one is the capital of Florida?
+1 - Baton Rouge
+2 - Tallahassee
+3 - Des Moines
+4 - Lincoln
+5 - Salem
+
+Question 5
+Which one is the capital of Alabama?
+1 - Frankfort
+2 - Raleigh
+3 - Denver
+4 - Montgomery
+5 - Springfield
+
+Question 6
+Which one is the capital of Connecticut?
+1 - Baton Rouge
+2 - Hartford
+3 - Annapolis
+4 - Little Rock
+5 - Helena
+
+Question 7
+Which one is the capital of Louisiana?
+1 - Indianapolis
+2 - Little Rock
+3 - Phoenix
+4 - Baton Rouge
+5 - Annapolis
+
+Question 8
+Which one is the capital of Pennsylvania?
+1 - Nashville
+2 - Carson City
+3 - Denver
+4 - Harrisburg
+5 - Lansing
+
+Question 9
+Which one is the capital of Mississippi?
+1 - Cheyenne
+2 - Jackson
+3 - Austin
+4 - Jefferson City
+5 - Saint Paul
+
+Question 10
+Which one is the capital of North Dakota?
+1 - Hartford
+2 - Atlanta
+3 - Bismarck
+4 - Concord
+5 - Montgomery
+

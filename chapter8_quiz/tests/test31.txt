@@ -1,0 +1,82 @@
+Test 31
+
+Question 1
+Which one is the capital of New York?
+1 - Albany
+2 - Santa Fe
+3 - Cheyenne
+4 - Charleston
+5 - Montpelier
+
+Question 2
+Which one is the capital of Illinois?
+1 - Montgomery
+2 - Dover
+3 - Springfield
+4 - Trenton
+5 - Salt Lake City
+
+Question 3
+Which one is the capital of Minnesota?
+1 - Saint Paul
+2 - Atlanta
+3 - Columbia
+4 - Jackson
+5 - Baton Rouge
+
+Question 4
+Which one is the capital of Nevada?
+1 - Dover
+2 - Raleigh
+3 - Augusta
+4 - Carson City
+5 - Denver
+
+Question 5
+Which one is the capital of North Carolina?
+1 - Raleigh
+2 - Helena
+3 - Salem
+4 - Albany
+5 - Austin
+
+Question 6
+Which one is the capital of NewMexico?
+1 - Santa Fe
+2 - Lansing
+3 - Lincoln
+4 - Harrisburg
+5 - Des Moines
+
+Question 7
+Which one is the capital of Arizona?
+1 - Phoenix
+2 - Helena
+3 - Austin
+4 - Harrisburg
+5 - Indianapolis
+
+Question 8
+Which one is the capital of NewMexico?
+1 - Honolulu
+2 - Annapolis
+3 - Santa Fe
+4 - Hartford
+5 - Juneau
+
+Question 9
+Which one is the capital of Oklahoma?
+1 - Olympia
+2 - Oklahoma City
+3 - Madison
+4 - Harrisburg
+5 - Carson City
+
+Question 10
+Which one is the capital of WestVirginia?
+1 - Madison
+2 - Charleston
+3 - Pierre
+4 - Little Rock
+5 - Montpelier
+

@@ -1,0 +1,10 @@
+1 - North Carolina: Raleigh
+2 - Montana: Helena
+3 - South Carolina: Columbia
+4 - Washington: Olympia
+5 - Hawaii: Honolulu
+6 - NewMexico: Santa Fe
+7 - Mississippi: Jackson
+8 - Washington: Olympia
+9 - Arkansas: Little Rock
+10 - Florida: Tallahassee

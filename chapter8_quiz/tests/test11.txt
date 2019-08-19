@@ -1,0 +1,82 @@
+Test 11
+
+Question 1
+Which one is the capital of South Carolina?
+1 - Boise
+2 - Montpelier
+3 - Saint Paul
+4 - Columbia
+5 - Providence
+
+Question 2
+Which one is the capital of Vermont?
+1 - Madison
+2 - Indianapolis
+3 - Jackson
+4 - Montpelier
+5 - Charleston
+
+Question 3
+Which one is the capital of Kentucky?
+1 - Denver
+2 - Montgomery
+3 - Dover
+4 - Frankfort
+5 - Jefferson City
+
+Question 4
+Which one is the capital of Virginia?
+1 - Baton Rouge
+2 - Richmond
+3 - Salem
+4 - Salt Lake City
+5 - Trenton
+
+Question 5
+Which one is the capital of Illinois?
+1 - Lincoln
+2 - Springfield
+3 - Carson City
+4 - Boise
+5 - Boston
+
+Question 6
+Which one is the capital of Florida?
+1 - Providence
+2 - Salem
+3 - Tallahassee
+4 - Raleigh
+5 - Atlanta
+
+Question 7
+Which one is the capital of NewMexico?
+1 - Columbia
+2 - Augusta
+3 - Santa Fe
+4 - Oklahoma City
+5 - Honolulu
+
+Question 8
+Which one is the capital of Wisconsin?
+1 - Madison
+2 - Olympia
+3 - Tallahassee
+4 - Providence
+5 - Topeka
+
+Question 9
+Which one is the capital of Illinois?
+1 - Lincoln
+2 - Springfield
+3 - Nashville
+4 - Atlanta
+5 - Augusta
+
+Question 10
+Which one is the capital of Nevada?
+1 - Des Moines
+2 - Phoenix
+3 - Baton Rouge
+4 - Carson City
+5 - Lansing
+

@@ -1,0 +1,10 @@
+1 - Oregon: Salem
+2 - Ohio: Columbus
+3 - Nebraska: Lincoln
+4 - NewMexico: Santa Fe
+5 - Michigan: Lansing
+6 - Alabama: Montgomery
+7 - Maine: Augusta
+8 - Utah: Salt Lake City
+9 - Kansas: Topeka
+10 - Texas: Austin

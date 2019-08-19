@@ -1,0 +1,82 @@
+Test 29
+
+Question 1
+Which one is the capital of Delaware?
+1 - Jackson
+2 - Dover
+3 - Juneau
+4 - Boston
+5 - Phoenix
+
+Question 2
+Which one is the capital of Utah?
+1 - Salt Lake City
+2 - Salem
+3 - Olympia
+4 - Trenton
+5 - Nashville
+
+Question 3
+Which one is the capital of Vermont?
+1 - Nashville
+2 - Saint Paul
+3 - Helena
+4 - Hartford
+5 - Montpelier
+
+Question 4
+Which one is the capital of Colorado?
+1 - Denver
+2 - Pierre
+3 - Helena
+4 - Cheyenne
+5 - Baton Rouge
+
+Question 5
+Which one is the capital of Arizona?
+1 - Indianapolis
+2 - Frankfort
+3 - Phoenix
+4 - Columbia
+5 - Tallahassee
+
+Question 6
+Which one is the capital of New Hampshire?
+1 - Indianapolis
+2 - Des Moines
+3 - Concord
+4 - Carson City
+5 - Boise
+
+Question 7
+Which one is the capital of Alabama?
+1 - Little Rock
+2 - Oklahoma City
+3 - Carson City
+4 - Augusta
+5 - Montgomery
+
+Question 8
+Which one is the capital of Utah?
+1 - Salt Lake City
+2 - Jackson
+3 - Indianapolis
+4 - Santa Fe
+5 - Bismarck
+
+Question 9
+Which one is the capital of Kansas?
+1 - Carson City
+2 - Santa Fe
+3 - Topeka
+4 - Madison
+5 - Cheyenne
+
+Question 10
+Which one is the capital of Pennsylvania?
+1 - Saint Paul
+2 - Jackson
+3 - Austin
+4 - Montpelier
+5 - Harrisburg
+

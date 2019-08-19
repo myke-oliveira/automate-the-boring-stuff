@@ -1,0 +1,82 @@
+Test 9
+
+Question 1
+Which one is the capital of South Dakota?
+1 - Pierre
+2 - Lincoln
+3 - Trenton
+4 - Nashville
+5 - Honolulu
+
+Question 2
+Which one is the capital of Arizona?
+1 - Boston
+2 - Indianapolis
+3 - Atlanta
+4 - Columbus
+5 - Phoenix
+
+Question 3
+Which one is the capital of Missouri?
+1 - Topeka
+2 - Jefferson City
+3 - Montgomery
+4 - Olympia
+5 - Frankfort
+
+Question 4
+Which one is the capital of Connecticut?
+1 - Indianapolis
+2 - Trenton
+3 - Springfield
+4 - Hartford
+5 - Jefferson City
+
+Question 5
+Which one is the capital of New Hampshire?
+1 - Annapolis
+2 - Montpelier
+3 - Baton Rouge
+4 - Concord
+5 - Boston
+
+Question 6
+Which one is the capital of Connecticut?
+1 - Phoenix
+2 - Madison
+3 - Springfield
+4 - Hartford
+5 - Santa Fe
+
+Question 7
+Which one is the capital of Rhode Island?
+1 - Providence
+2 - Denver
+3 - Jefferson City
+4 - Saint Paul
+5 - Columbia
+
+Question 8
+Which one is the capital of Colorado?
+1 - Raleigh
+2 - Denver
+3 - Des Moines
+4 - Augusta
+5 - Boston
+
+Question 9
+Which one is the capital of Arkansas?
+1 - Little Rock
+2 - Salt Lake City
+3 - Springfield
+4 - Bismarck
+5 - Santa Fe
+
+Question 10
+Which one is the capital of Oklahoma?
+1 - Bismarck
+2 - Concord
+3 - Frankfort
+4 - Sacramento
+5 - Oklahoma City
+

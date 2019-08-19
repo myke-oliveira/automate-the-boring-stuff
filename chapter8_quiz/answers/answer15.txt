@@ -1,0 +1,10 @@
+1 - Nevada: Carson City
+2 - Colorado: Denver
+3 - North Dakota: Bismarck
+4 - South Carolina: Columbia
+5 - Ohio: Columbus
+6 - Rhode Island: Providence
+7 - Montana: Helena
+8 - Pennsylvania: Harrisburg
+9 - Iowa: Des Moines
+10 - Pennsylvania: Harrisburg

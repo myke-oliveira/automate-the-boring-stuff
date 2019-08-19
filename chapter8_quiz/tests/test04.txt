@@ -1,0 +1,82 @@
+Test 4
+
+Question 1
+Which one is the capital of Maryland?
+1 - Providence
+2 - Annapolis
+3 - Austin
+4 - Denver
+5 - Raleigh
+
+Question 2
+Which one is the capital of Kansas?
+1 - Honolulu
+2 - Olympia
+3 - Columbus
+4 - Albany
+5 - Topeka
+
+Question 3
+Which one is the capital of Oklahoma?
+1 - Concord
+2 - Oklahoma City
+3 - Columbia
+4 - Montgomery
+5 - Topeka
+
+Question 4
+Which one is the capital of WestVirginia?
+1 - Oklahoma City
+2 - Charleston
+3 - Helena
+4 - Honolulu
+5 - Salt Lake City
+
+Question 5
+Which one is the capital of Missouri?
+1 - Jefferson City
+2 - Concord
+3 - Bismarck
+4 - Saint Paul
+5 - Indianapolis
+
+Question 6
+Which one is the capital of Louisiana?
+1 - Honolulu
+2 - Topeka
+3 - Salt Lake City
+4 - Tallahassee
+5 - Baton Rouge
+
+Question 7
+Which one is the capital of South Carolina?
+1 - Columbia
+2 - Harrisburg
+3 - Little Rock
+4 - Austin
+5 - Bismarck
+
+Question 8
+Which one is the capital of South Dakota?
+1 - Trenton
+2 - Salem
+3 - Topeka
+4 - Pierre
+5 - Boise
+
+Question 9
+Which one is the capital of Washington?
+1 - Olympia
+2 - Augusta
+3 - Concord
+4 - Des Moines
+5 - Cheyenne
+
+Question 10
+Which one is the capital of Illinois?
+1 - Tallahassee
+2 - Oklahoma City
+3 - Helena
+4 - Springfield
+5 - Frankfort
+

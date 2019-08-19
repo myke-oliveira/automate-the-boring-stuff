@@ -1,0 +1,82 @@
+Test 19
+
+Question 1
+Which one is the capital of Virginia?
+1 - Santa Fe
+2 - Montgomery
+3 - Bismarck
+4 - Richmond
+5 - Salt Lake City
+
+Question 2
+Which one is the capital of Louisiana?
+1 - Oklahoma City
+2 - Trenton
+3 - Annapolis
+4 - Columbia
+5 - Baton Rouge
+
+Question 3
+Which one is the capital of Delaware?
+1 - Dover
+2 - Providence
+3 - Des Moines
+4 - Bismarck
+5 - Salem
+
+Question 4
+Which one is the capital of Illinois?
+1 - Springfield
+2 - Columbus
+3 - Nashville
+4 - Raleigh
+5 - Montgomery
+
+Question 5
+Which one is the capital of Oklahoma?
+1 - Des Moines
+2 - Springfield
+3 - Pierre
+4 - Lincoln
+5 - Oklahoma City
+
+Question 6
+Which one is the capital of Maine?
+1 - Sacramento
+2 - Augusta
+3 - Bismarck
+4 - Albany
+5 - Boise
+
+Question 7
+Which one is the capital of Alabama?
+1 - Juneau
+2 - Denver
+3 - Columbia
+4 - Trenton
+5 - Montgomery
+
+Question 8
+Which one is the capital of Kansas?
+1 - Trenton
+2 - Annapolis
+3 - Sacramento
+4 - Columbia
+5 - Topeka
+
+Question 9
+Which one is the capital of Minnesota?
+1 - Raleigh
+2 - Helena
+3 - Bismarck
+4 - Saint Paul
+5 - Montpelier
+
+Question 10
+Which one is the capital of Colorado?
+1 - Frankfort
+2 - Denver
+3 - Austin
+4 - Topeka
+5 - Jefferson City
+

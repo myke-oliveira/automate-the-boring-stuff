@@ -1,0 +1,10 @@
+1 - Alaska: Juneau
+2 - Maryland: Annapolis
+3 - Connecticut: Hartford
+4 - Maine: Augusta
+5 - NewMexico: Santa Fe
+6 - Indiana: Indianapolis
+7 - Michigan: Lansing
+8 - Connecticut: Hartford
+9 - NewMexico: Santa Fe
+10 - New Jersey: Trenton

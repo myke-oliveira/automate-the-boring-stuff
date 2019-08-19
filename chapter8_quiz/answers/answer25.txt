@@ -1,0 +1,10 @@
+1 - Virginia: Richmond
+2 - Missouri: Jefferson City
+3 - South Dakota: Pierre
+4 - California: Sacramento
+5 - Wyoming: Cheyenne
+6 - Nebraska: Lincoln
+7 - Mississippi: Jackson
+8 - Massachusetts: Boston
+9 - Arkansas: Little Rock
+10 - Illinois: Springfield

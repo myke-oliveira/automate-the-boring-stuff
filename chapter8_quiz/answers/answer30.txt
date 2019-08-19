@@ -1,0 +1,10 @@
+1 - Minnesota: Saint Paul
+2 - Utah: Salt Lake City
+3 - Oregon: Salem
+4 - Utah: Salt Lake City
+5 - Texas: Austin
+6 - Vermont: Montpelier
+7 - Texas: Austin
+8 - Ohio: Columbus
+9 - Pennsylvania: Harrisburg
+10 - Idaho: Boise

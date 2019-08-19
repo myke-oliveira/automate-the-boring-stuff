@@ -1,0 +1,10 @@
+1 - Georgia: Atlanta
+2 - Indiana: Indianapolis
+3 - Tennessee: Nashville
+4 - Rhode Island: Providence
+5 - Texas: Austin
+6 - Montana: Helena
+7 - Arkansas: Little Rock
+8 - New York: Albany
+9 - Louisiana: Baton Rouge
+10 - WestVirginia: Charleston

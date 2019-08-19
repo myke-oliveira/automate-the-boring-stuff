@@ -1,0 +1,10 @@
+1 - Connecticut: Hartford
+2 - Arkansas: Little Rock
+3 - New York: Albany
+4 - South Carolina: Columbia
+5 - Colorado: Denver
+6 - Utah: Salt Lake City
+7 - Arkansas: Little Rock
+8 - Vermont: Montpelier
+9 - WestVirginia: Charleston
+10 - Kentucky: Frankfort

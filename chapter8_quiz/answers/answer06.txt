@@ -1,0 +1,10 @@
+1 - Texas: Austin
+2 - NewMexico: Santa Fe
+3 - New Hampshire: Concord
+4 - Pennsylvania: Harrisburg
+5 - NewMexico: Santa Fe
+6 - Idaho: Boise
+7 - Oklahoma: Oklahoma City
+8 - WestVirginia: Charleston
+9 - Vermont: Montpelier
+10 - Iowa: Des Moines
