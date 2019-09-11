@@ -31,8 +31,8 @@ while not url.endswith('#'):
 		print(f'Error Occured: {e}')
 		sys.exit(1)
 	
-	with open(os.path.join('xkcdimages', os.path.split(urlimage)[1]), 'wb') as imgfile:
-		for chunk in res.iter_content(1000000):
+	with open(os.path.join('xkcdimages', os.path.basename(urlimage)), 'wb') as imgfile:
+		for chunk in res.iter_content(100000):
 			imgfile.write(chunk)
 	
 	url = nexturl
