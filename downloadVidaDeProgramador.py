@@ -1,6 +1,6 @@
 import requests, bs4, sys, os
 
-url = 'https://vidadeprogramador.com.br/'
+url = 'https://www.vidadeprogramador.com.br/'
 
 directoryname = 'vidadeprogramador'
 
@@ -29,5 +29,8 @@ while True:
 		with open(os.path.join(directoryname, imagefilename), 'wb') as imagefile:
 			for chunk in resimage.iter_content(100000):
 				imagefile.write(chunk)
-
-	url = soup.select('.prev > a')[0].get('href')
+	try:
+		url = soup.select('.prev > a')[0].get('href')
+	except Exception as e:
+		print(e)	
+		break
