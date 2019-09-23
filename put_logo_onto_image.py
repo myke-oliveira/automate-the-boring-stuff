@@ -13,7 +13,8 @@ def main():
 	logo_width, logo_height = logo_image.size
 
 	for filename in os.listdir(directory_source):
-		if filename.endswith('.jpg') or filename.endswith('.jpeg') or filename.endswith('.png'):
+		if any(map(lambda extension: filename.endswith('extension'),
+			('.jpg', '.jpeg', '.png', '.bmp', '.giff', '.JPG', '.JPEG', '.PNG', '.BMP', '.GIFF'))):
 			image = Image.open(os.path.join(directory_source, filename))
 			width, height = image.size
 			if width > MAX_DIM or height > MAX_DIM:

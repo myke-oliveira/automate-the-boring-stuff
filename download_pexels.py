@@ -1,3 +1,5 @@
+#! /home/myke/anaconda3/bin/python
+
 import requests, bs4, sys, os
 
 term = input('Type term for searching: ')
